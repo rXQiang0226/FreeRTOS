@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "lcd.h": "c",
+        "bsp_sdio_sd.h": "c",
+        "sdio_sdcard.h": "c",
+        "sram.h": "c",
+        "xmram.h": "c",
+        "malloc.h": "c",
+        "flash.h": "c",
+        "spi.h": "c",
+        "system.h": "c",
+        "usart.h": "c"
+    }
+}
